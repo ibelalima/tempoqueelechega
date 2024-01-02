@@ -1,2 +1,2 @@
-# tempoqueelechega
-Resolução de exercício em Python para saber em quanto tempo chico chegará na escola
+# Programandopy
+Resolução de exercícios em Python feitos na disciplina de Introdução a lógica de Programação
